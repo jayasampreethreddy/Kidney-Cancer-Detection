@@ -8,3 +8,13 @@
 [2024-09-04 19:27:02,294: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-09-04 23:21:59,937: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-04 23:21:59,952: INFO: common: yaml file: C:\Users\konde\Music\projects\Kidney Cancer Detection\Kidney-Cancer-Detection\config\config.yaml loaded successfully]
+[2024-09-04 23:21:59,953: INFO: common: yaml file: C:\Users\konde\Music\projects\Kidney Cancer Detection\Kidney-Cancer-Detection\params.yaml loaded successfully]
+[2024-09-04 23:21:59,953: INFO: common: created directory at: artifacts]
+[2024-09-04 23:21:59,953: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-04 23:21:59,955: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-04 23:22:14,465: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-04 23:22:15,097: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
